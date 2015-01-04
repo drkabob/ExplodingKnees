@@ -1,6 +1,7 @@
 body {
     background-image: url("explodingknees.jpg");
     background-repeat: repeat;
+    background-size: 10%;
 }
 
 html, body {
