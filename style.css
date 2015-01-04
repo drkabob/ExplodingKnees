@@ -1,5 +1,5 @@
 body {
-    background-image: explodingknees.jpg;
+    background-image: url("explodingknees.jpg");
     background-repeat: repeat;
 }
 
